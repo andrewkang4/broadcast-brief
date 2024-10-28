@@ -9,6 +9,7 @@
 🤖 Sends text and images to x.ai's Grok 2 model and Grok 2 vision model to summarize what's happening in a live video broadcast
 
 ## Tech stack
+- Replit
 - JavaScript
 - Flask
 - Python
